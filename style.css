@@ -1,0 +1,365 @@
+body {
+	font-family: 'Alata', sans-serif;
+	color: black;
+	margin: 0;
+}
+
+
+h2 {
+	font-family: 'Alata', sans-serif;
+	color: grey;
+}
+
+audio {
+	float: right;
+}
+
+.titre {
+	color: white;
+	background-image: url(images/sunset.jpg);
+	background-size: cover;
+	background-position: right 70% bottom 90%;;
+	display: block;
+	height: 390px;
+}
+
+.social_media a {
+text-decoration: none;
+}
+
+
+
+
+
+.parent1 {
+	display: flex;
+	position: relative;
+	justify-content: flex-start;
+	align-items: center ;
+}
+
+
+
+
+
+.parent2 {
+	display: flex;
+	position: relative;
+	justify-content: space-around;
+	align-items: center;
+}
+
+
+
+
+.orangeme {
+	display: flex;
+	position: relative;
+	justify-content: space-around;
+	align-items: flex-start;
+}
+#orange {
+	box-shadow: 70px -70px blue;
+}
+
+
+
+
+
+.m0 img {
+	align-items: flex-end;
+}
+
+.m5 img {
+	align-content: flex-start ;
+	flex-wrap: wrap; 
+}
+
+
+*/*
+.m1 {
+	justify-content: space-around;
+	align-content: space-between;
+ 	flex-wrap: wrap;
+}
+.m2 {
+	align-items: center;
+	justify-content: center
+}
+.m3 {
+	justify-content: space-around;
+	align-content: space-between;
+ 	flex-wrap: wrap;
+}
+.m4 {
+	justify-content: space-around;
+	align-content: space-between;
+ 	flex-wrap: wrap;
+}
+.m5 {
+	justify-content: space-around;
+	align-content: space-between;
+ 	flex-wrap: wrap;
+}
+*/*
+
+
+
+
+*/*
+.parent3 img {
+	border: 10px solid white;
+}
+.parent3 video {
+	border: 10px solid white;
+}
+*/*
+
+
+
+#bandw:hover{
+	transform: scale(1.1);
+	transition: ease 0.2s;
+}
+#bzhlouis:hover{
+	transform: scale(1.1);
+	transition: ease 0.2s;
+}
+#cookie:hover{
+	transform: scale(1.1);
+	transition: ease 0.2s;
+}
+#rolling:hover{
+	transform: scale(1.1);
+	transition: ease 0.2s;
+}
+#fleur:hover{
+	transform: scale(1.1);
+	transition: ease 0.2s;
+}
+#dax:hover{
+	transform: scale(1.1);
+	transition: ease 0.2s;
+}
+#family:hover{
+	transform: scale(1.1);
+	transition: ease 0.2s;
+}
+#guitarre:hover{
+	transform: scale(1.1);
+	transition: ease 0.2s;
+}
+#glace:hover{
+	transform: scale(1.1);
+	transition: ease 0.2s;
+}
+#hoalen:hover{
+	transform: scale(1.1);
+	transition: ease 0.2s;
+}
+#louismathieu:hover{
+	transform: scale(1.1);
+	transition: ease 0.2s;
+}
+#lunettes:hover{
+	transform: scale(1.1);
+	transition: ease 0.2s;
+}
+#palmtree:hover{
+	transform: scale(1.1);
+	transition: ease 0.2s;
+}
+#porteboard:hover{
+	transform: scale(1.1);
+	transition: ease 0.2s;
+}
+#ricard:hover{
+	transform: scale(1.1);
+	transition: ease 0.2s;
+}
+#roue:hover{
+	transform: scale(1.1);
+	transition: ease 0.2s;
+}
+#rvca:hover{
+	transform: scale(1.1);
+	transition: ease 0.2s;
+}
+#sable:hover{
+	transform: scale(1.1);
+	transition: ease 0.2s;
+}
+#sandiego:hover{
+	transform: scale(1.1);
+	transition: ease 0.2s;
+}
+#smile:hover{
+	transform: scale(1.1);
+	transition: ease 0.2s;
+}
+#sunsetme:hover{
+	transform: scale(1.1);
+	transition: ease 0.2s;
+}
+#tedcharles:hover{
+	transform: scale(1.1);
+	transition: ease 0.2s;
+}
+#sunsetLA:hover{
+	transform: scale(1.1);
+	transition: ease 0.2s;
+}
+#surfretro:hover{
+	transform: scale(1.1);
+	transition: ease 0.2s;
+}
+#shortboard:hover{
+	transform: scale(1.1);
+	transition: ease 0.2s;
+}
+#voiturebleue:hover{
+	transform: scale(1.1);
+	transition: ease 0.2s;
+}
+#voiturenoire:hover{
+	transform: scale(1.1);
+	transition: ease 0.2s;
+}
+#volley:hover{
+	transform: scale(1.1);
+	transition: ease 0.2s;
+}
+#ysl:hover{
+	transform: scale(1.1);
+	transition: ease 0.2s;
+}
+#blue:hover{
+	transform: scale(1.1);
+	transition: ease 0.2s;
+}
+#videau:hover{
+	transform: scale(1.1);
+	transition: ease 0.2s;
+}
+#viddisque:hover{
+	transform: scale(1.1);
+	transition: ease 0.2s;
+}
+#vidroller:hover{
+	transform: scale(1.1);
+	transition: ease 0.2s;
+}
+#vidfeu:hover{
+	transform: scale(1.1);
+	transition: ease 0.2s;
+}
+#vidskate:hover{
+	transform: scale(1.1);
+	transition: ease 0.2s;
+}
+#plane:hover{
+	transform: scale(1.1);
+	transition: ease 0.2s;
+}
+#arthossegor:hover{
+	transform: scale(1.1);
+	transition: ease 0.2s;
+}
+
+
+
+.parent4 {
+	display: flex;
+	position: relative;
+	justify-content: space-around;
+	align-items: center;
+}
+
+
+
+
+
+.seeyou {
+	color: white;
+	background-image: url(images/sunvolley.jpg);
+	background-size: cover;
+	background-position: right 70% bottom 84%;;
+	display: block;
+	height: 390px;
+}
+
+
+
+#contact:hover{
+	transform: scale(1.1);
+	transition: ease 0.2s;
+}
+
+
+
+
+
+
+*/*.linkedin a {
+	text-decoration: none;
+	color: black;
+}
+
+
+.i_like, .i_dislike {
+	background-color: black;
+	width: 40%;
+	border-radius: 8px;
+	text-align: center;
+	padding: 20px 10px;
+}
+
+.i_like {
+	color: white;
+	margin: 0 auto;
+}
+
+.i_dislike {
+	color: white;
+	margin: 0 auto;
+}
+
+
+
+
+.card {
+	position: absolute;
+	bottom: 0
+	left:-60px;
+}
+.card h2 {
+	position: absolute;
+	bottom: 0
+	left:-60px;
+}
+
+.card h3 {
+	position: absolute;
+	bottom: 0
+	left:-60px;
+}
+
+
+
+
+.i_dislike:hover{
+	color: red;
+}
+
+#hate:hover{
+	color: red;
+}
+
+#love:hover{
+	color: green;
+}
+*/*
+
+
+
+
